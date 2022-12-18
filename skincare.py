@@ -3,7 +3,7 @@
 # Donot take this seriously, not a licensed dermatologist/aesthetician, just wanted to do this for fun
 # Consult your dermatologist/aesthetician for more specific advice
 # Kinda a coincidence most of the products are from CeraVe
-# Asll suggestions chosen from online beauty magazine articles and from my own experience (I have oily skin)
+# All suggestions chosen from online beauty magazine articles and from my own experience (I have oily skin)
 
 import tkinter as tk
 
